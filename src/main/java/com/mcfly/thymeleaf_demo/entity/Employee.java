@@ -1,4 +1,4 @@
-package com.mcfly.crud_rest_demo.entity;
+package com.mcfly.thymeleaf_demo.entity;
 
 import jakarta.persistence.*;
 

@@ -1,13 +1,13 @@
-package com.mcfly.crud_rest_demo;
+package com.mcfly.thymeleaf_demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudRestDemoApplication {
+public class ThymeleafDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudRestDemoApplication.class, args);
+		SpringApplication.run(ThymeleafDemoApplication.class, args);
 	}
 
 }

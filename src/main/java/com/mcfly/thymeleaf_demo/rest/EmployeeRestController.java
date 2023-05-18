@@ -1,7 +1,7 @@
-package com.mcfly.crud_rest_demo.rest;
+package com.mcfly.thymeleaf_demo.rest;
 
-import com.mcfly.crud_rest_demo.entity.Employee;
-import com.mcfly.crud_rest_demo.service.EmployeeService;
+import com.mcfly.thymeleaf_demo.entity.Employee;
+import com.mcfly.thymeleaf_demo.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

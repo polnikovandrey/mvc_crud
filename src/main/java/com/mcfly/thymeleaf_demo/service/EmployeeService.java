@@ -1,6 +1,6 @@
-package com.mcfly.crud_rest_demo.service;
+package com.mcfly.thymeleaf_demo.service;
 
-import com.mcfly.crud_rest_demo.entity.Employee;
+import com.mcfly.thymeleaf_demo.entity.Employee;
 
 import java.util.List;
 

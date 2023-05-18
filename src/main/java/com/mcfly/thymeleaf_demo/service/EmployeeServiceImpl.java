@@ -1,7 +1,7 @@
-package com.mcfly.crud_rest_demo.service;
+package com.mcfly.thymeleaf_demo.service;
 
-import com.mcfly.crud_rest_demo.dao.EmployeeRepository;
-import com.mcfly.crud_rest_demo.entity.Employee;
+import com.mcfly.thymeleaf_demo.dao.EmployeeRepository;
+import com.mcfly.thymeleaf_demo.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
